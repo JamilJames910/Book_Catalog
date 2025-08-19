@@ -104,11 +104,13 @@ Output:
 
 ## Project Structure 🗂️
 
+```
 Book_Catalog
 ├── Book_Catalog.py       # Main script
 ├── books.json            # Local book storage (created automatically)
 ├── README.md             # Project documentation
 └── .gitignore            # Git ignore file
+```
 
 ## Contributing 🤝
 
