@@ -14,13 +14,12 @@ Perfect for adding, viewing, searching, updating, and deleting books stored in a
 ✅ Works across different operating systems (Windows, macOS, Linux).
 
 ## Table of Contents
-
-* Installation
-* Usage
-* Example
-* Project Structure
-* Contributing
-* Contact
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example](#example)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Installation 🛠️
 
