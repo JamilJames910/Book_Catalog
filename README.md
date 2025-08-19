@@ -27,7 +27,7 @@ Perfect for adding, viewing, searching, updating, and deleting books stored in a
 Clone this repository:
 
 ```bash
-git clone https://github.com/JamilJames/Book_Catalog.git
+git clone https://github.com/JamilJames910/Book_Catalog.git
 cd Book_Catalog
 ```
 
