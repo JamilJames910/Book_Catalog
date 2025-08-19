@@ -4,7 +4,6 @@ A simple, intuitive Python command-line program to manage a personal book catalo
 Perfect for adding, viewing, searching, updating, and deleting books stored in a JSON file.
 
 ## Features ✨
-
 ✅ Add new books with details: Title, Author, Genre, Year, ISBN, and Status.
 ✅ View all books in the catalog.
 ✅ Search books by Title, Author, or Genre.
