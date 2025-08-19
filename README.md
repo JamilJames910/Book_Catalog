@@ -4,13 +4,15 @@ A simple, intuitive Python command-line program to manage a personal book catalo
 Perfect for adding, viewing, searching, updating, and deleting books stored in a JSON file.
 
 ## Features ✨
-✅ Add new books with details: Title, Author, Genre, Year, ISBN, and Status.
-✅ View all books in the catalog.
-✅ Search books by Title, Author, or Genre.
-✅ Update existing book information.
-✅ Delete books from the catalog.
-✅ Stores data locally in a `books.json` file.
-✅ Works across different operating systems (Windows, macOS, Linux).
+
+✅ Add new books with details: Title, Author, Genre, Year, ISBN, and Status.  
+✅ View all books in the catalog.  
+✅ Search books by Title, Author, or Genre.  
+✅ Update existing book information.  
+✅ Delete books from the catalog.  
+✅ Stores data locally in a `books.json` file.  
+✅ Works across different operating systems (Windows, macOS, Linux).  
+
 
 ## Table of Contents
 - [Installation](#installation)
